@@ -1,0 +1,64 @@
+body {
+  padding:5px;
+  font-family: 'Montserrat', sans-serif;
+font-family: 'Space Mono', monospace;
+font-family: 'Syne', sans-serif;
+background-color: #A68E6B;
+color: #ffffff;
+}
+
+main {  
+padding:20px;
+background-color: #4F4638;
+border-radius:10px
+}
+
+h1 {
+  text-align:center;
+  font-family: 'Space Mono', monospace;
+font-family: 'Syne', sans-serif;
+  font-size:50px;
+  margin: 0;
+}
+
+ figcaption, p {
+   text-align:center;
+   font-size:0,5rem;
+   margin: 20px;
+ }
+
+h3 {
+  text-align:center;
+  
+}
+
+figure {
+  display:flex;
+  flex-direction:column;
+  background-color: #A68E6B;
+  padding:10px;
+  border-radius:10px;
+}
+
+img{
+  display:block;
+  max-width:100%;
+  height:auto;
+  align-items:center;
+}
+
+.bold {
+  font-weight: 800;
+}
+ 
+section {
+  padding: 0 25%;
+}
+ 
+.tribute-link {
+  width:100%;
+}
+
+a {
+  color:#ffffff;
+}
